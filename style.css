@@ -70,7 +70,7 @@ header > h1 {
 }
 
 .choices {
-	margin: 20px 0;
+	margin: 30px ;
 	text-align: center;
 }
 
@@ -101,4 +101,5 @@ header > h1 {
 	font-family: Asap, sans-serif;
 	font-weight: bold;
 	font-size: 20px;
+	margin-top: 20px;
 }
