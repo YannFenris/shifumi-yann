@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<title>Shifumi_Fenris</title>
 		<link rel="stylesheet" href="style.css">
-		<script src="app.js" charset="utf-8"></script>
+		
 	</head>
 	<body>
 		<header>
@@ -37,5 +37,6 @@
 		</div>
 
 		<p id="action-message">Fait ton choix</p>
-			</body>
-	</html>
+		<script src="app.js" charset="utf-8"></script>
+	</body>
+</html>
